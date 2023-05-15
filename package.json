@@ -1,0 +1,25 @@
+{
+  "name": "understanding_typesript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu-an41/Understanding_TypeScript.git"
+  },
+  "author": "Yu An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu-an41/Understanding_TypeScript/issues"
+  },
+  "homepage": "https://github.com/yu-an41/Understanding_TypeScript#readme"
+}

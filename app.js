@@ -6,3 +6,6 @@ function printResult2(num) {
 }
 printResult2(add2(5, 7));
 console.log(printResult2(add2(5, 7)));
+var combineValues;
+combineValues = add2;
+console.log(combineValues(8, 8));

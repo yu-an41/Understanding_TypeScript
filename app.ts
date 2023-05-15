@@ -9,3 +9,8 @@ function printResult2(num: number): void {
 printResult2(add2(5, 7));
 
 console.log(printResult2(add2(5, 7)));
+
+let combineValues;
+combineValues = add2;
+
+console.log(combineValues(8, 8));
